@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/profile.png"
+              src="/images/profile.jpg"
               height={240}
               width={190}
               alt="My photo"
@@ -42,7 +42,7 @@ export default function Layout({ children, home }) {
             <Link href="/">
               <Image
                 priority
-                src="/images/profile.png"
+                src="/images/profile.jpg"
                 height={240}
                 width={190}
                 alt=""
