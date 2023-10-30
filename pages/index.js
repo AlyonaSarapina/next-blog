@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm Alona. I'm a software engineer. You can contact me on
-          <a href='https://www.linkedin.com/in/alona-sarapina-97a1aa283/'> LindedIn
+          <a href='https://www.linkedin.com/in/alona-sarapina-97a1aa283/'> LinkedIn
           </a>.
         </p>
         <p>
